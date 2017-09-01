@@ -1,0 +1,9 @@
+.vscode
+Include
+Lib
+Scripts
+tcl
+.sqlite3
+.db
+.txt
+dailytenders/weblist.py

@@ -26,6 +26,10 @@ python manage.py shell
 
 # Run the following
 
+python manage.py test
+
+# or
+
 from dailytenders.models import Tender
 from dailytenders.serializers import TenderSerializer
 from rest_framework.renderers import JSONRenderer
